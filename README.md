@@ -70,7 +70,7 @@ orangehrm-qa-automation-medhavee/
 
 ### Sample Output
 Add screenshots or report snippet — this visual impresses instantly.
-```markdown
+
 ## Sample Reports & Screenshots
 
 - **HTML Report Preview:**
@@ -100,3 +100,5 @@ Add screenshots or report snippet — this visual impresses instantly.
 **Medhavee Upadhyaya**  
 Master’s in Computer Science | Software Engineer in Test  
 [LinkedIn](www.linkedin.com/in/medhavee-upadhyaya) | [GitHub](https://github.com/medhavee-upadhyaya)
+
+```markdown
