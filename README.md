@@ -69,8 +69,6 @@ orangehrm-qa-automation-medhavee/
 
 
 ### Sample Output
-Add screenshots or report snippet — this visual impresses instantly.
-
 ## Sample Reports & Screenshots
 
 - **HTML Report Preview:**
